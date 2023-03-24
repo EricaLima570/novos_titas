@@ -1,0 +1,20 @@
+body{
+    font-family: arial;
+    background-color: rgb(226, 43, 150);
+    font-size: 15px;
+}
+table{
+    background-color:#fff;
+    border: 1px solid #000;
+}
+thead{
+    background-color:#ccc;
+
+}
+th{
+    padding: 9px 5px 5px 5px;
+}
+td{
+    padding: 9px;
+    border: 1px solid #000;
+}
